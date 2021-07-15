@@ -11,7 +11,7 @@ Also I really enjoy to work with mobile devices, AR and VR.
 
 ## Unity C# Projects
 ### Mobile:
-- #### 🆕 Ssswappy! **[About](https://ikommm.github.io/Portfolio/articles/Art_10_en.html)**
+- #### 🔜 Ssswappy!**(SOON)**
 - #### ✅ Crush The Ssswappy! **[About](https://ikommm.github.io/Portfolio/index_en.html)** , **[Play](https://drive.google.com/drive/folders/1I5qUT03ACj1hvQ-FpXlPjzKRvdNzUGPy?usp=sharing)**, **[Repository](https://github.com/IKOMMM/CrushTheSsswappy)** 
 - #### 🔜 Ssswappy! Micro Cart **[About](https://ikommm.github.io/Portfolio/index_en.html)**
 - #### 🔜 Don't Die Ssswappy!  **[About](https://ikommm.github.io/Portfolio/index_en.html)**
@@ -31,5 +31,5 @@ Also I really enjoy to work with mobile devices, AR and VR.
 ## Code Snippets
 - **Unique Coordinates Generator (UNITY C#)**
 - **Day and Night System (UNITY C#)**
-- **[Physics-based car](https://github.com/IKOMMM/CarControllerPrototype_UNITY) (UNITY C#)** 
+- **[Physics-Based Car](https://github.com/IKOMMM/CarControllerPrototype_UNITY) (UNITY C#)** 
 
