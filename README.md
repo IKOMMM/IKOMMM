@@ -27,7 +27,7 @@ Also I really enjoy to work with mobile devices, AR and VR.
 ## Other C# Projects
 - **[Travel Cross Platform App](https://github.com/IKOMMM/Travel_Cross_Platform_App) (XAMARIN)**
 - **[Supper Sapper](https://github.com/IKOMMM/Supper_Sapper_WPF) (WPF)**
-- **[C# CODE PRACTISE SNIPPETS](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets) (CONSOLE)**
+- **[C# Code Practise Snippets](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets) (CONSOLE C#)**
 
 ## Code Snippets
 - **Unique Coordinates Generator (UNITY C#)**
