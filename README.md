@@ -1,5 +1,5 @@
 # Hi there, I'm Mikołaj 🔥
-I'm interested in writing game mechanics for PC and Mobiles. 
+I'm interested in designing and writing game mechanics for PC and Mobiles. 
 Also I really enjoy to work with mobile devices, AR and VR.
 - **👨‍💻 [My Portfolio Site](https://ikommm.github.io/Portfolio/index_en.html)**
 
