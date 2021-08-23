@@ -19,7 +19,7 @@ Also I really enjoy to work with mobile devices, AR and VR.
 - #### 🔜 CubeLoop (Work In Progress) **[About](https://ikommm.github.io/Portfolio/articles/Art_01_en.html)** , **[Demo](https://drive.google.com/drive/folders/1_O_Lf_jmAKofTPjilSvhCzgRSD0pHDvE)**
 - #### ✅ Infinite Increase **[About](https://ikommm.github.io/Portfolio/articles/Art_12_en.html)** , **[Play](https://ikommm.github.io/Infinite_Increase_Build/)**, **[Repository](https://github.com/IKOMMM/Infinite_Increase)** 
 - #### 🔜 Tube Flight **[About](https://ikommm.github.io/Portfolio/articles/Art_12_en.html)**, 
-- #### ✅ Realm Defence  **[About](https://ikommm.github.io/Portfolio/articles/Art_12_en.html)**, **[Play](https://ikommm.github.io/Realm_Defence_Build/)**, **[Repository](https://github.com/IKOMMM/Realm_Defence)** 
+- #### ✅ Realm Defence **[About](https://ikommm.github.io/Portfolio/articles/Art_12_en.html)**, **[Play](https://ikommm.github.io/Realm_Defence_Build/)**, **[Repository](https://github.com/IKOMMM/Realm_Defence)** 
 ### 📚 OTHER:
 - #### ✅ Prototypes and physics **[About](https://ikommm.github.io/Portfolio/articles/Art_20_en.html)**
 - #### ✅ Shaders **[About](https://ikommm.github.io/Portfolio/articles/Art_21_en.html)**
@@ -31,6 +31,6 @@ Also I really enjoy to work with mobile devices, AR and VR.
 
 ## 📜 Code Snippets
 - **🧪 [Unique Coordinates Generator](https://github.com/IKOMMM/Miko_Code_Snippets_UNITY/blob/main/OVERALL/RandomCoordinatesGenerator) (UNITY C#)**
-- **🕹️ Day and Night System (UNITY C#)**
-- **🕹️ [Physics-Based Car](https://github.com/IKOMMM/CarControllerPrototype_UNITY) (UNITY C#)** 
+- **🌗 [Day and Night System](https://github.com/IKOMMM/Miko_Code_Snippets_UNITY/tree/main/3D/DayAndNightSystem) (UNITY C#)**
+- **🚗 [Physics-Based Car](https://github.com/IKOMMM/CarControllerPrototype_UNITY) (UNITY C#)** - 
 
