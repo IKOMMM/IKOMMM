@@ -32,5 +32,5 @@ Also I really enjoy to work with mobile devices, AR and VR.
 ## 📜 Code Snippets
 - **🧪 [Unique Coordinates Generator](https://github.com/IKOMMM/Miko_Code_Snippets_UNITY/blob/main/OVERALL/RandomCoordinatesGenerator) (UNITY C#)**
 - **🌗 [Day and Night System](https://github.com/IKOMMM/Miko_Code_Snippets_UNITY/tree/main/3D/DayAndNightSystem) (UNITY C#)**
-- **🚗 [Physics-Based Car](https://github.com/IKOMMM/CarControllerPrototype_UNITY) (UNITY C#)** - 
+- **🚗 [Physics-Based Car](https://github.com/IKOMMM/CarControllerPrototype_UNITY) (UNITY C#)** 
 
