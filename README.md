@@ -1,7 +1,7 @@
 # Hi there, I'm Mikołaj 🔥
 I'm interested in designing and writing game mechanics for PC and Mobiles. 
 Also I really enjoy to work with mobile devices, AR and VR.
-- **👨‍💻 [My Portfolio Site](https://www.mmusialik.com/index_en.html)**
+- **👨‍💻 [My Portfolio Site](http://www.mmusialik.com/en/)**
 
 ## 💡 Languages and technologies
 - **C#**
@@ -12,17 +12,17 @@ Also I really enjoy to work with mobile devices, AR and VR.
 ## 🕹️ Unity C# Projects
 ### 📱 Mobile:
 - #### 🔜 Ssswappy! **(SOON)**
-- #### ✅ Crush The Ssswappy! **[About](https://www.mmusialik.com/articles/Art_11_en.html)** , **[Play](https://drive.google.com/drive/folders/1I5qUT03ACj1hvQ-FpXlPjzKRvdNzUGPy?usp=sharing)**, **[Repository](https://github.com/IKOMMM/CrushTheSsswappy)** 
-- #### ✅ Ssswappy! Micro Cart **[About](https://www.mmusialik.com/articles/Art_11_en.html)** , **[Play](https://drive.google.com/drive/folders/1SZGgIArRxPqTzcnzDfUhL2nqS1l6Q84v?usp=sharing)**, **[Repository](https://github.com/IKOMMM/Ssswappy_Micro_Cart)**
-- #### ✅ Don't Die Ssswappy!  **[About](https://www.mmusialik.com/articles/Art_11_en.html)** , **[Play](https://drive.google.com/drive/folders/1uttZQyDITmYVkLxGC-XpdUPYYGNF8rQH?usp=sharing)**, **[Repository](https://github.com/IKOMMM/DontDieSsswappy)**
+- #### ✅ Crush The Ssswappy! **[About](http://www.mmusialik.com/articles_en/Art_11.html)** , **[Play](https://drive.google.com/drive/folders/1I5qUT03ACj1hvQ-FpXlPjzKRvdNzUGPy?usp=sharing)**, **[Repository](https://github.com/IKOMMM/CrushTheSsswappy)** 
+- #### ✅ Ssswappy! Micro Cart **[About](http://www.mmusialik.com/articles_en/Art_11.html)** , **[Play](https://drive.google.com/drive/folders/1SZGgIArRxPqTzcnzDfUhL2nqS1l6Q84v?usp=sharing)**, **[Repository](https://github.com/IKOMMM/Ssswappy_Micro_Cart)**
+- #### ✅ Don't Die Ssswappy!  **[About](http://www.mmusialik.com/articles_en/Art_11.html)** , **[Play](https://drive.google.com/drive/folders/1uttZQyDITmYVkLxGC-XpdUPYYGNF8rQH?usp=sharing)**, **[Repository](https://github.com/IKOMMM/DontDieSsswappy)**
 ### 🖥️ PC/WebGL:
-- #### 🔜 CubeLoop (Work In Progress) **[About](https://www.mmusialik.com/articles/Art_01_en.html)** , **[Demo](https://drive.google.com/drive/folders/1_O_Lf_jmAKofTPjilSvhCzgRSD0pHDvE)**
-- #### ✅ Infinite Increase **[About](https://www.mmusialik.com/articles/Art_12_en.html)** , **[Play](https://ikommm.github.io/Infinite_Increase_Build/)**, **[Repository](https://github.com/IKOMMM/Infinite_Increase)** 
-- #### 🔜 Tube Flight **[About](https://www.mmusialik.com/articles/Art_12_en.html)**, 
-- #### ✅ Realm Defence **[About](https://www.mmusialik.com/articles/Art_12_en.html)**, **[Play](https://ikommm.github.io/Realm_Defence_Build/)**, **[Repository](https://github.com/IKOMMM/Realm_Defence)** 
+- #### 🔜 CubeLoop (Work In Progress) **[About](http://www.mmusialik.com/articles_en/Art_01.html)** , **[Demo](https://drive.google.com/drive/folders/1_O_Lf_jmAKofTPjilSvhCzgRSD0pHDvE)**
+- #### ✅ Infinite Increase **[About](http://www.mmusialik.com/articles_en/Art_12.html)** , **[Play](https://ikommm.github.io/Infinite_Increase_Build/)**, **[Repository](https://github.com/IKOMMM/Infinite_Increase)** 
+- #### 🔜 Tube Flight **[About](http://www.mmusialik.com/articles_en/Art_12.html)**, 
+- #### ✅ Realm Defence **[About](http://www.mmusialik.com/articles_en/Art_12.html)**, **[Play](https://ikommm.github.io/Realm_Defence_Build/)**, **[Repository](https://github.com/IKOMMM/Realm_Defence)** 
 ### 📚 OTHER:
-- #### ✅ Prototypes and physics **[About](https://www.mmusialik.com/articles/Art_20_en.html)**
-- #### ✅ Shaders **[About](https://www.mmusialik.com/articles/Art_21_en.html)**
+- #### ✅ Prototypes and physics **[About](http://www.mmusialik.com/articles_en/Art_20.html)**
+- #### ✅ Shaders **[About](http://www.mmusialik.com/articles_en/Art_21.html)**, **[Repository](https://github.com/IKOMMM/Miko_Shaders_Library_UNITY)** 
 
 ## 📜 Other C# Projects
 - **🧪 [C# Code Practise Snippets](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets) (CONSOLE C#)**
