@@ -25,7 +25,7 @@ Also I really enjoy to work with mobile devices, AR and VR.
 - #### ✅ Shaders **[About](https://www.mmusialik.com/articles_en/Art_21.html)**, **[Repository](https://github.com/IKOMMM/Miko_Shaders_Library_UNITY)** 
 
 ## 🌐 Web Projects
-- **🌪️ [Simple Weather PP](https://github.com/IKOMMM/Aplikacje_Webowe_Laboratoria_11070/tree/main/LAB_03_V.01) (HTML + CSS + VANILLAJS)**
+- **🌪️ [Simple Weather APP](https://github.com/IKOMMM/Aplikacje_Webowe_Laboratoria_11070/tree/main/LAB_03_V.01) (HTML + CSS + VANILLAJS)**
 - **⛅ [Complex Weather APP](https://github.com/IKOMMM/Aplikacje_Webowe_Laboratoria_11070/tree/main/LAB_03_V.02) (REACT APP)**
 
 ## 📜 Other C# Projects
