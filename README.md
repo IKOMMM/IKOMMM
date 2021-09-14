@@ -24,14 +24,14 @@ Also I really enjoy to work with mobile devices, AR and VR.
 - #### ✅ Prototypes and physics **[About](https://www.mmusialik.com/articles_en/Art_20.html)**
 - #### ✅ Shaders **[About](https://www.mmusialik.com/articles_en/Art_21.html)**, **[Repository](https://github.com/IKOMMM/Miko_Shaders_Library_UNITY)** 
 
+## 🌐 Web Projects
+- **🌪️ [Simple Weather PP](https://github.com/IKOMMM/Aplikacje_Webowe_Laboratoria_11070/tree/main/LAB_03_V.01) (HTML + CSS + VANILLAJS)**
+- **⛅ [Complex Weather APP](https://github.com/IKOMMM/Aplikacje_Webowe_Laboratoria_11070/tree/main/LAB_03_V.02) (REACT APP)**
+
 ## 📜 Other C# Projects
 - **🧪 [C# Code Practise Snippets](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets) (CONSOLE C#)**
 - **🖥️ [Supper Sapper](https://github.com/IKOMMM/Supper_Sapper_WPF) (WPF)**
 - **📱 [Travel Cross Platform App](https://github.com/IKOMMM/Travel_Cross_Platform_App) (XAMARIN)**
-
-## 📜 Other Web Projects
-- **🌪️ [Weather APP](https://github.com/IKOMMM/Aplikacje_Webowe_Laboratoria_11070/tree/main/LAB_03_V.01) (HTML + CSS+ VANILLA JS)**
-- **🌡️ [Complex Weather APP](https://github.com/IKOMMM/Aplikacje_Webowe_Laboratoria_11070/tree/main/LAB_03_V.02) (REACT APP)**
 
 ## 📜 Code Snippets
 - **🧪 [Unique Coordinates Generator](https://github.com/IKOMMM/Miko_Code_Snippets_UNITY/blob/main/OVERALL/RandomCoordinatesGenerator) (UNITY C#)**
