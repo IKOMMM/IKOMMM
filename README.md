@@ -31,7 +31,7 @@ Also I really enjoy to work with mobile devices, AR and VR.
 
 ## 📜 Other Web Projects
 - **🌪️ [Weather APP](https://github.com/IKOMMM/Aplikacje_Webowe_Laboratoria_11070/tree/main/LAB_03_V.01) (HTML + CSS+ VANILLA JS)**
-- **🌡️ [Complex Weather APP](https://github.com/IKOMMM/Aplikacje_Webowe_Laboratoria_11070/tree/main/LAB_03_V.02) (ReactApp)**
+- **🌡️ [Complex Weather APP](https://github.com/IKOMMM/Aplikacje_Webowe_Laboratoria_11070/tree/main/LAB_03_V.02) (REACT APP)**
 
 ## 📜 Code Snippets
 - **🧪 [Unique Coordinates Generator](https://github.com/IKOMMM/Miko_Code_Snippets_UNITY/blob/main/OVERALL/RandomCoordinatesGenerator) (UNITY C#)**
