@@ -32,6 +32,7 @@ Also I really enjoy to work with mobile devices, AR and VR.
 ## 🌐 Web projects
 - **🌪️ [Simple weather App](https://github.com/IKOMMM/Aplikacje_Webowe_Laboratoria_11070/tree/main/LAB_03_V.01) (HTML + CSS + VANILLAJS)**
 - **⛅ [Complex weather App](https://github.com/IKOMMM/Aplikacje_Webowe_Laboratoria_11070/tree/main/LAB_03_V.02) (REACT APP)**
+- **📝 [Notekeep App](https://github.com/IKOMMM/Aplikacje_Webowe_Laboratoria_11070/tree/main/LAB_04) (HTML + CSS + VANILLAJS)**
 
 ## 📜 Other C# projects
 - **🧪 [C# code practise snippets](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets) (CONSOLE C#)**
