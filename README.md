@@ -9,7 +9,7 @@ Also I really enjoy to work with mobile devices, AR and VR.
 - **JavaScript/TypeScript**
 - Learning deeply **.Net, Xamarin and Flutter**
 
-## 🕹️ Unity Engine Projects
+## 🕹️ Unity Engine projects
 ### 📱 Mobile:
 - #### 🔜 Ssswappy! **(SOON)**
 - #### ▶️ Crush The Ssswappy! **[About](https://www.mmusialik.com/articles_en/Art_11.html)** , **[Play](https://drive.google.com/drive/folders/1I5qUT03ACj1hvQ-FpXlPjzKRvdNzUGPy?usp=sharing)**, **[Repository](https://github.com/IKOMMM/CrushTheSsswappy)** 
@@ -29,11 +29,11 @@ Also I really enjoy to work with mobile devices, AR and VR.
 - **🔧 [Prototypes and physics](https://www.mmusialik.com/articles_en/Art_20.html) (UNITY C#)**
 - **🎨 [Shaders](https://github.com/IKOMMM/Miko_Shaders_Library_UNITY) (UNITY SHADER GRAPH)**
 
-## 🌐 Web Projects
+## 🌐 Web projects
 - **🌪️ [Simple weather App](https://github.com/IKOMMM/Aplikacje_Webowe_Laboratoria_11070/tree/main/LAB_03_V.01) (HTML + CSS + VANILLAJS)**
 - **⛅ [Complex weather App](https://github.com/IKOMMM/Aplikacje_Webowe_Laboratoria_11070/tree/main/LAB_03_V.02) (REACT APP)**
 
-## 📜 Other C# Projects
+## 📜 Other C# projects
 - **🧪 [C# code practise snippets](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets) (CONSOLE C#)**
 - **🖥️ [Supper sapper](https://github.com/IKOMMM/Supper_Sapper_WPF) (WPF C#)**
 - **📱 [Travel cross platform App](https://github.com/IKOMMM/Travel_Cross_Platform_App) (XAMARIN C#)**
