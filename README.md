@@ -20,21 +20,21 @@ Also I really enjoy to work with mobile devices, AR and VR.
 - #### ✅ Infinite Increase **[About](https://www.mmusialik.com/articles_en/Art_12.html)** , **[Play](https://ikommm.github.io/Infinite_Increase_Build/)**, **[Repository](https://github.com/IKOMMM/Infinite_Increase)** 
 - #### 🔜 Tube Flight **[About](https://www.mmusialik.com/articles_en/Art_12.html)**, 
 - #### ✅ Realm Defence **[About](https://www.mmusialik.com/articles_en/Art_12.html)**, **[Play](https://ikommm.github.io/Realm_Defence_Build/)**, **[Repository](https://github.com/IKOMMM/Realm_Defence)** 
-### 📚 OTHER:
+### 📚 Other:
 - #### ✅ Prototypes and physics **[About](https://www.mmusialik.com/articles_en/Art_20.html)**
 - #### ✅ Shaders **[About](https://www.mmusialik.com/articles_en/Art_21.html)**, **[Repository](https://github.com/IKOMMM/Miko_Shaders_Library_UNITY)** 
 
+## 📜 Code Unity snippets
+- **⚽ [Simulation of ball physics and colsisions](https://github.com/IKOMMM/The-Gravity-and-The-Balls) (UNITY C#)**
+- **🧪 [Unique coordinates generator](https://github.com/IKOMMM/Miko_Code_Snippets_UNITY/blob/main/OVERALL/RandomCoordinatesGenerator) (UNITY C#)**
+- **🌗 [Day and night system](https://github.com/IKOMMM/Miko_Code_Snippets_UNITY/tree/main/3D/DayAndNightSystem) (UNITY C#)**
+- **🚗 [Physics-based car](https://github.com/IKOMMM/CarControllerPrototype_UNITY) (UNITY C#)** 
+
 ## 🌐 Web Projects
-- **🌪️ [Simple Weather APP](https://github.com/IKOMMM/Aplikacje_Webowe_Laboratoria_11070/tree/main/LAB_03_V.01) (HTML + CSS + VANILLAJS)**
-- **⛅ [Complex Weather APP](https://github.com/IKOMMM/Aplikacje_Webowe_Laboratoria_11070/tree/main/LAB_03_V.02) (REACT APP)**
+- **🌪️ [Simple weather App](https://github.com/IKOMMM/Aplikacje_Webowe_Laboratoria_11070/tree/main/LAB_03_V.01) (HTML + CSS + VANILLAJS)**
+- **⛅ [Complex weather App](https://github.com/IKOMMM/Aplikacje_Webowe_Laboratoria_11070/tree/main/LAB_03_V.02) (REACT APP)**
 
 ## 📜 Other C# Projects
-- **🧪 [C# Code Practise Snippets](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets) (CONSOLE C#)**
-- **🖥️ [Supper Sapper](https://github.com/IKOMMM/Supper_Sapper_WPF) (WPF)**
-- **📱 [Travel Cross Platform App](https://github.com/IKOMMM/Travel_Cross_Platform_App) (XAMARIN)**
-
-## 📜 Code Snippets
-- **🧪 [Unique Coordinates Generator](https://github.com/IKOMMM/Miko_Code_Snippets_UNITY/blob/main/OVERALL/RandomCoordinatesGenerator) (UNITY C#)**
-- **🌗 [Day and Night System](https://github.com/IKOMMM/Miko_Code_Snippets_UNITY/tree/main/3D/DayAndNightSystem) (UNITY C#)**
-- **🚗 [Physics-Based Car](https://github.com/IKOMMM/CarControllerPrototype_UNITY) (UNITY C#)** 
-
+- **🧪 [C# code practise snippets](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets) (CONSOLE C#)**
+- **🖥️ [Supper sapper](https://github.com/IKOMMM/Supper_Sapper_WPF) (WPF)**
+- **📱 [Travel cross platform App](https://github.com/IKOMMM/Travel_Cross_Platform_App) (XAMARIN)**
