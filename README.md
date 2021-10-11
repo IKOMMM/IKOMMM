@@ -24,7 +24,7 @@ Also I really enjoy to work with mobile devices, AR and VR.
 - #### ✅ Prototypes and physics **[About](https://www.mmusialik.com/articles_en/Art_20.html)**
 - #### ✅ Shaders **[About](https://www.mmusialik.com/articles_en/Art_21.html)**, **[Repository](https://github.com/IKOMMM/Miko_Shaders_Library_UNITY)** 
 
-## 📜 Code Unity snippets
+## 📜 Unity Engine code snippets
 - **⚽ [Simulation of ball physics and colsisions](https://github.com/IKOMMM/The-Gravity-and-The-Balls) (UNITY C#)**
 - **🧪 [Unique coordinates generator](https://github.com/IKOMMM/Miko_Code_Snippets_UNITY/blob/main/OVERALL/RandomCoordinatesGenerator) (UNITY C#)**
 - **🌗 [Day and night system](https://github.com/IKOMMM/Miko_Code_Snippets_UNITY/tree/main/3D/DayAndNightSystem) (UNITY C#)**
@@ -36,5 +36,5 @@ Also I really enjoy to work with mobile devices, AR and VR.
 
 ## 📜 Other C# Projects
 - **🧪 [C# code practise snippets](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets) (CONSOLE C#)**
-- **🖥️ [Supper sapper](https://github.com/IKOMMM/Supper_Sapper_WPF) (WPF)**
-- **📱 [Travel cross platform App](https://github.com/IKOMMM/Travel_Cross_Platform_App) (XAMARIN)**
+- **🖥️ [Supper sapper](https://github.com/IKOMMM/Supper_Sapper_WPF) (WPF C#)**
+- **📱 [Travel cross platform App](https://github.com/IKOMMM/Travel_Cross_Platform_App) (XAMARIN C#)**
