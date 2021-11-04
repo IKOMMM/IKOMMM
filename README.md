@@ -1,6 +1,6 @@
 # Hi there, I'm Mikołaj
 I'm interested in designing and writing game mechanics for PC and Mobiles. 
-Also I really enjoy to work with mobile devices, AR and VR.
+Also I really enjoy to work with mobile devices.
 - **👨‍💻 [My Portfolio Site](https://www.mmusialik.com/en/)**
 
 ## 💡 Languages and technologies
