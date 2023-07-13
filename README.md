@@ -7,12 +7,13 @@ Also I really enjoy to work with mobile devices.
 - **C#**
 - **Unity**
 - **JavaScript/TypeScript**
-- Learning deeply **.Net, Xamarin and Flutter**
+- Learning deeply **Unity, .Net, Flutter**
 
 ## 📜 Unity Engine code snippets 
+- **🧩 [Global Static In Game Events](https://github.com/IKOMMM/Miko_Code_Snippets_UNITY/tree/main/Utilities/GameEvents) (UNITY C#)**
 - **🔧 [Editor Tools Kit](https://github.com/IKOMMM/Unity-Editor-Tools/tree/main) (EDITOR UNITY C#)**
 - **⚽ [Simulation of ball physics and colsisions](https://github.com/IKOMMM/The-Gravity-and-The-Balls) (UNITY C#)**
-- **🧪 [Unique coordinates generator](https://github.com/IKOMMM/Miko_Code_Snippets_UNITY/blob/main/OVERALL/RandomCoordinatesGenerator) (UNITY C#)**
+- **🧪 [Unique coordinates generator](https://github.com/IKOMMM/Miko_Code_Snippets_UNITY/blob/main/Utilities/RandomCoordinatesGenerator) (UNITY C#)**
 - **🌗 [Day and night system](https://github.com/IKOMMM/Miko_Code_Snippets_UNITY/tree/main/3D/DayAndNightSystem) (UNITY C#)**
 - **🚗 [Physics-based car](https://github.com/IKOMMM/CarControllerPrototype_UNITY) (UNITY C#)** 
 - **🔧 [Prototypes and physics](https://www.mmusialik.com/articles_en/Art_20.html) (UNITY C#)**
