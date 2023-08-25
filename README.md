@@ -9,6 +9,11 @@ Also I really enjoy to work with mobile devices.
 - **JavaScript/TypeScript**
 - Learning deeply **Unity, .Net, Flutter**
 
+## 📜 Programming Base
+- **[Design Patterns]**
+- **[S.O.L.I.D]**
+- **[OOP Principles]**
+
 ## 📜 Unity Engine code snippets 
 - **🧩 [Global Static In Game Events](https://github.com/IKOMMM/Miko_Code_Snippets_UNITY/tree/main/Utilities/GameEvents) (UNITY C#)**
 - **🔧 [Editor Tools Kit](https://github.com/IKOMMM/Unity-Editor-Tools/tree/main) (EDITOR UNITY C#)**
