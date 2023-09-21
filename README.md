@@ -4,10 +4,10 @@ Also I really enjoy to work with mobile devices.
 - **👨‍💻 [My Portfolio Site](https://www.mmusialik.com/en/)**
 
 ## 💡 Languages and technologies
-- **C#**
-- **Unity**
+- **C#, C++**
+- **Unity, Unreal**
 - **JavaScript/TypeScript**
-- Learning deeply **Unity, .Net, Flutter**
+- Learning deeply **Unreal, Unity, .Net**
 
 ## 📜 Programming Base
 - **[Design Patterns]**
