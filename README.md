@@ -4,15 +4,9 @@ Also I really enjoy to work with mobile devices.
 - **👨‍💻 [My Portfolio Site](https://www.mmusialik.com/en/)**
 
 ## 💡 Languages and technologies
-- **C#, C++**
-- **Unity, Unreal**
-- **JavaScript/TypeScript**
+- **C#, Typescript, C++**
+- **Unity, Unreal, Horizon**
 - Learning deeply **Unreal, Unity, .Net**
-
-## 📜 Programming Base
-- **[Design Patterns]**
-- **[S.O.L.I.D]**
-- **[OOP Principles]**
 
 ## 📜 Unity Engine code snippets 
 - **🧩 [Global Static In Game Events](https://github.com/IKOMMM/Miko_Code_Snippets_UNITY/tree/main/Utilities/GameEvents) (UNITY C#)**
